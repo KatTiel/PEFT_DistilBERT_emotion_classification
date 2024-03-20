@@ -15,7 +15,7 @@ In particular, LoRA integrates a compact trainable submodule into the transforme
 - GPU is recommended, e.g. using [Google Colab](https://colab.google) or [Kaggle Notebooks](https://www.kaggle.com/)
 
 ## Data Set & Preprocessing
-The data set was split into a **training set** (80%, 1600 records), a **validation set** (10%, 2000 records) and a **test set** (10%, 2000 records).
+The data set was split into a **training set** (80%, 16000 records), a **validation set** (10%, 2000 records) and a **test set** (10%, 2000 records).
 
 Furthermore, the dataset was **tokenized**, so that words were represented as numbers and therefore could be fed into the computations.
 
