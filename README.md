@@ -22,7 +22,7 @@ The data set was split into a **training set** (80%, 1600 records), a **validati
 
 ## Performance Measurements
 ### Accuracy
-Accuracy is a good performance parameter when all classes are equally important and there are no significant class imbalances. In this project, classes were not well-balanced.
+Accuracy is a good general performance parameter when all classes are equally important.
 
 <img width="161" alt="" src="https://github.com/KatTiel/stroke_binary_classification_CNN/assets/76701992/7417c4b4-09d8-4dba-bb11-8e9e9dbebc1e">
 
