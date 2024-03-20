@@ -10,7 +10,7 @@ In particular, LoRA integrates a compact trainable submodule into the transforme
 ## Prerequisites 
 - [Python 3.11](https://www.python.org/downloads/release/python-3110/)
 - Jupyter Notebook ```pip install notebook ```
-- [Required dependencies](.............................) ```pip install -r requirements.txt ```
+- [Required dependencies](https://github.com/KatTiel/Fine-tuning_DistilBERT/blob/main/requirements.txt) ```pip install -r requirements.txt ```
 - ['emotion' dataset from Hugging Face](https://huggingface.co/datasets/dair-ai/emotion) (3)
 - GPU is recommended, e.g. using [Google Colab](https://colab.google) or [Kaggle Notebooks](https://www.kaggle.com/)
 
