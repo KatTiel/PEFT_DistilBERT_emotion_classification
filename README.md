@@ -1,4 +1,4 @@
-## Fine-tuning LLM DistilBERT for :relaxed: :heart_eyes: Emotion Classification :pensive: :rage: using Parameter Efficient Fine-Tuning (PEFT)
+## Fine-tuning LLM DistilBERT for :relaxed::heart_eyes: Emotion Classification :pensive::rage: using Parameter Efficient Fine-Tuning (PEFT)
 
 The project's aim was to fine-tune the LLM DistilBERT to specialize on categorizing emotions in texts into five categories:
 
